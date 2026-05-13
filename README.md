@@ -8,12 +8,15 @@ Masaüstü Ortamı: LXDE / Openbox (Ultra Hafif)
 
 Init Sistemi: sysvinit (Hız için systemd yerine tercih edildi)
 
-RAM Kullanımı: Boşta < 500MB
+RAM Kullanımı: Boşta < 436MB
 
 Paket Yöneticisi: nux (Özel geliştirilmiş Python tabanlı CLI)
 
 📦 Kurulum
 ISO dosyasını indirdikten sonra bir USB belleğe yazdırarak canlı (live) ortamda test edebilir veya sisteminize kurabilirsiniz.
+
+Internet Sitemiz: https://nucoralinux.com.tr
+Forum Sitemiz: https://forum.nucoralinux.com.tr
 
 🚀 nux Paket Yöneticisi Kullanımı
 Sistemi güncel tutmak ve yeni paketler kurmak için kendi geliştirdiğimiz nux aracını kullanın:
