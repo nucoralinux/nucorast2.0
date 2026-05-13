@@ -18,6 +18,4 @@ ISO dosyasını indirdikten sonra bir USB belleğe yazdırarak canlı (live) ort
 🚀 nux Paket Yöneticisi Kullanımı
 Sistemi güncel tutmak ve yeni paketler kurmak için kendi geliştirdiğimiz nux aracını kullanın:
 
-Bash
-sudo nux install <paket_adi>
-sudo nux update
+689909897_1704966823881749_6705633824073352727_n.png
